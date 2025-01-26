@@ -5,7 +5,7 @@ This project uses machine learning and deep learning techniques to detect and pr
 ## **Quick Start Guide**
 
 ### **Prerequisites**
-1. Install [Python 3.7+](https://www.python.org/downloads/).
+1. Install [Python 3.7+](https://www.python.org/downloads/)
 2. Ensure `git` is installed (`git --version`).
 
 ---
@@ -14,7 +14,7 @@ This project uses machine learning and deep learning techniques to detect and pr
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/DarkGuardian641/Epileptic-Seizure-Detection>
+   git clone https://github.com/DarkGuardian641/Epileptic-Seizure-Detection
    cd Epileptic-Seizure-Detection
    ```
 
@@ -39,7 +39,7 @@ This project uses machine learning and deep learning techniques to detect and pr
    ```bash
    streamlit run scripts/app.py
    ```
-   Open the URL displayed in the terminal (e.g., `http://localhost:8501`).
+   Open the URL displayed in the terminal (e.g., `http://localhost:8501`)
 
 ---
 
@@ -53,7 +53,7 @@ This project uses machine learning and deep learning techniques to detect and pr
   pytest tests/
   ```
 - **Contribute**:
-  1. Create a branch: `git checkout -b feature/name`.
+  1. Create a branch: `git checkout -b feature/name`
   2. Commit and push changes.
   3. Open a pull request.
 
